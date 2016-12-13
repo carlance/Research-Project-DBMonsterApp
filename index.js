@@ -5,7 +5,6 @@ var urls = {
 	ractive: 'http://www.rich-harris.co.uk/ractive-dbmonster/',
 	paperclip: 'http://paperclip-dbmonster.herokuapp.com/'
 }
-asdasdsads
 var browserPerf = require('browser-perf');
 var FILE = 'data.json';
 var fs = require('fs');
