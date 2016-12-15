@@ -1,9 +1,7 @@
 var urls = {
-	react: 'http://run.plnkr.co/plunks/Wwgjjpl9NHMO5Nd1TUyN/',
-	ember: 'https://dbmonster.firebaseapp.com/',
-	underscore: 'http://jashkenas.github.io/dbmonster/',
-	ractive: 'http://www.rich-harris.co.uk/ractive-dbmonster/',
-	paperclip: 'http://paperclip-dbmonster.herokuapp.com/'
+	react: 'http://mathieuancelin.github.io/js-repaint-perfs/react/',
+	angular: 'http://mathieuancelin.github.io/js-repaint-perfs/angular/',
+	backbone: 'http://mathieuancelin.github.io/js-repaint-perfs/backbone/'
 }
 var browserPerf = require('browser-perf');
 var FILE = 'data.json';
